@@ -23,8 +23,8 @@
   </div>
   <div class="vue-app concept">
     <h2>#3 - the Result is an app like this one</h2>
-    <a target="_blank" href="https://github.com/waynestedman/vue-app-example">
-      <img src="../assets/vue-app-github.png" alt="Vue App Github repository">
+    <a target="_blank" href="https://github.com/waynestedman/design-sys-vue">
+      <img src="../assets/ds-vue-github.png" alt="Vue App Github repository">
       <p>click to see the repo for this Vue App</p>
     </a>
   </div>
