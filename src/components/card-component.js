@@ -13,7 +13,7 @@ export class CardComponent extends LitElement {
         /* border: solid 1px var(--color-base-gray-dark); */
         border-radius: 10px;
         text-align: left;
-        background-color: #fff;
+        background-color: var(--white);
         padding: 0 1rem 2rem 1rem;
         margin: 1rem auto;
         box-shadow: 5px 7px 10px 0px rgba(0,0,0,0.3);

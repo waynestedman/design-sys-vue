@@ -32,6 +32,10 @@
 </template>
 
 <style lang="scss" scoped>
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--raleway), sans-serif;
+}
+
 h1 {
   font-size: var(--h1);
   margin: 1rem;
@@ -47,12 +51,12 @@ h1 {
 
   a {
     cursor: pointer;
-    color: var(--gray-03);
-    font-size: var(--body);
+    color: var(--gray03);
+    font-size: var(--p);
 
     p {
       display: block;
-      font-size: var(--body);
+      font-size: var(--p);
       text-align: center;
     }
   }
@@ -66,8 +70,8 @@ h1 {
     display: inline-block;
     padding: 1rem;
     margin: 1rem 0;
-    background-color: #fff;
-    // border: 1px solid var(--gray-03);
+    background-color: var(--white);
+    // border: 1px solid var(--gray03);
     border-radius: 8px;
     max-width: 46%;
 

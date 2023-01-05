@@ -11,8 +11,8 @@ import MainApp from './components/MainApp.vue'
 
 <style lang="scss">
 header {
-  background-color: var(--teal-03);
-  color: #fff;
+  background-color: var(--teal03);
+  color: var(--white);
   margin: 0;
   text-align: center;
 }

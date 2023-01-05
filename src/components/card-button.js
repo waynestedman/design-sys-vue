@@ -12,15 +12,16 @@ export class CardButton extends LitElement {
       text-align: center;
       font-family: var(--montserrat);
       font-size: var(--button);
-      background-color: var(--blue-01);
-      color: var(--gray-03);
+      background-color: var(--indigo02);
+      color: var(--gray03);
       border: unset;
       border-radius: 10px;
+      cursor: pointer;
     };
-    /* button:hover {
-      color: var(--gray-02);
-      background-color: var(--blue-03);
-    }; */
+    button:hover {
+      color: var(--gray02);
+      background-color: var(--indigo01);
+    };
   `;
 
   static get properties() {

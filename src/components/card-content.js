@@ -8,8 +8,8 @@ export class CardContent extends LitElement {
         padding: 1rem;
         width: 100%;
         font-family: var(--montserrat);
-        font-size: var(--body);
-        color: var(--gray-03);
+        font-size: var(--p);
+        color: var(--gray03);
       }
     `;
 
