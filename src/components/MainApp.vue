@@ -4,22 +4,22 @@
   <div class="figjam concept">
     <h2>This FigJam illustrates the parts of a design system and how they're connected:</h2>
     <a target="_blank" href="https://www.figma.com/file/UDUmV5OdNafGKzy0zOwwa5/Design-System-example">
-      <img src="../assets/tokens-pipeline-diagram.png" alt="FigJam illustarting a design system">
+      <img src="../assets/tokens-pipeline-diagram.png" alt="FigJam illustrating a design system">
       <p>click to see the FigJam diagram</p>
     </a>
   </div>
   <div class="tokens-figma concept">
     <h2>#1 - It all starts by establishing your Design tokens</h2>
     <a target="_blank" href="https://www.figma.com/file/DvZ47nOktUjA0bxjUnGhgp/Design-Tokens-example">
-      <img src="../assets/tokens-in-figma.png" alt="Figma file for the Dsign Tokens">
+      <img src="../assets/tokens-in-figma.png" alt="Figma file for the Design Tokens">
       <p>click to see the Figma Tokens file</p>
     </a>
   </div>
   <div class="component concept">
-    <h2>#2 - An example of a componet,<br>that has been built by the system</h2>
-    <p>This example card is a framework agnostic web componet. It was built in Lit and has been imported into this Vue app, exactly the same way any other UI library is used.</p>
+    <h2>#2 - An example of a component,<br>that has been built by the system</h2>
+    <p>This example card is a framework agnostic web component. It was built in Lit and has been imported into this Vue app, exactly the same way any other UI library is used.</p>
     <br>
-    <p>Design Token information has flowed down to the componet and app from the single source of truth.</p>
+    <p>Design Token information has flowed down to the component and app from the single source of truth.</p>
     <card-component></card-component>
   </div>
   <div class="vue-app concept">
